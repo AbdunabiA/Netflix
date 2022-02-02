@@ -3,8 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Netflix.iml" filepath="$PROJECT_DIR$/.idea/Netflix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../NewProject/.idea/NewProject.iml" filepath="$PROJECT_DIR$/../NewProject/.idea/NewProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Onlineshop/.idea/Onlineshop.iml" filepath="$PROJECT_DIR$/../Onlineshop/.idea/Onlineshop.iml" />
       <module fileurl="file://$PROJECT_DIR$/../spotify/.idea/spotify.iml" filepath="$PROJECT_DIR$/../spotify/.idea/spotify.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../todorest/.idea/todorest.iml" filepath="$PROJECT_DIR$/../todorest/.idea/todorest.iml" />
     </modules>
   </component>
 </project>

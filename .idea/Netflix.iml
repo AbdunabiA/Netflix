@@ -8,5 +8,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Onlineshop" />
     <orderEntry type="module" module-name="spotify" />
+    <orderEntry type="module" module-name="todorest" />
+    <orderEntry type="module" module-name="NewProject" />
   </component>
 </module>
